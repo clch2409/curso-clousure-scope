@@ -1,0 +1,20 @@
+{
+  "name": "curso-clousure-scope",
+  "version": "1.0.0",
+  "description": "Respositorio del curso de Clousure y Scope de Platzi. Practicando para el Challenge de 30 días con JavaScript.",
+  "main": "primeraclase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clch2409/curso-clousure-scope.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clch2409/curso-clousure-scope/issues"
+  },
+  "homepage": "https://github.com/clch2409/curso-clousure-scope#readme"
+}
